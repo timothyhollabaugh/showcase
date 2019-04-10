@@ -8,30 +8,12 @@
   image: https://raw.githubusercontent.com/TeXitoi/rusty-clock/master/images/front.jpg
 
 
-  # Project name
 - name: Micromouse
-
-  # Project website
-  website: http://netzero.solarlogic.net/tim/micromouse/
-
-  # Author name or username
-  author: Tim Hollabaugh (timothyhollabaugh), John McAvoy (JOHNeMac36), Jack Camins, and Andrew Galloway
-
-  # Author's GitHub / Twitter profile or personal website
-  # author_website:  https://github.com/ghost
-
-  # SHORT description of the project (max 280 characters)
+  website: https://github.com/rowanras/micromouse2019
+  author: Rowan RAS: Tim Hollabaugh (timothyhollabaugh), John McAvoy (JOHNeMac36), Jack Camins, and Andrew Galloway
+  author_website: https://github.com/rowanras
   description: "A robot to compete in the IEEE micromouse competition. Won first place at the IEEE region 2 student activities conference. Designed and built by Rowan University's Robotics and Automation Society. The mouse uses and stm32f405rg on a custom board with brushed gearmotors and time of flight distance sensors."
-
-  # Image of the project
-  # if not a URL, place the file in the `assets` folder
   image: http://netzero.solarlogic.net/tim/img/micromousev2.jpg
-
-  # OR a video of the project
-  # multiple video formats can be supplied
-  # if not a URL, place the file in the `assets` folder
-  # video:
-    # - ipsum.mp4
 
 # Template for new entries
 
